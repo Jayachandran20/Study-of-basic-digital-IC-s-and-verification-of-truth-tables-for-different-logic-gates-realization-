@@ -1,3 +1,7 @@
+
+# Name:Jayavarthan P
+# Reg No:212222100015
+
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 # AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
@@ -78,29 +82,26 @@ Y= A⊕B
 
 # Program:
 ```
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: M.JAYACHANDRAN
-RegisterNumber: 212222240038
-
-module assignment1(a,b,ynot,yand,yor,ynand,ynor,yxor,yxnor);
+module Verificationoflogicgatres	(a,b,y1,y2,y3,y4,y5,y6,y7,y8);
 input a,b;
-output ynot,yand,yor,ynand,ynor,yxor,yxnor;
-not(ynot,a);
-and(yand,a,b);
-or(yor,a,b);
-nand(ynand,a,b);
-nor(ynor,a,b);
-xor(yxor,a,b);
-xnor(yxnor,a,b);
+output y1,y2,y3,y4,y5,y6,y7,y8;
+not(y1,a);
+not(y2,b);
+and(y3,a,b);
+or(y4,a,b);
+nand(y5,a,b);
+nor(y6,a,b);
+xor(y7,a,b);
+xnor(y8,a,b);
 endmodule
 ```
 # RTL Diagram:
-![Screenshot (97)](https://github.com/Jayachandran20/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121369281/59de04e4-3fc5-492b-83df-ca21f93a4242)
+![Screenshot (97)](https://github.com/JAYAVARTHAN-P/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121369281/59de04e4-3fc5-492b-83df-ca21f93a4242)
 
 
 
 # Truthtable:
-![261616908-64057eb3-2a05-4c7d-a824-9ef20ffe1356](https://github.com/Jayachandran20/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118447015/8b2a2a54-e655-4530-b52c-00ff26b14cc6)
+![WhatsApp Image 2023-08-18 at 09 17 00](https://github.com/JAYAVARTHAN-P/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121369281/49b4652b-2780-4110-81d9-db7d9dc0e3b2)
 
 # Output:
 ![Screenshot (100)](https://github.com/JAYAVARTHAN-P/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121369281/985133a1-f89d-44e4-9295-683dc86c96b7)
