@@ -95,12 +95,12 @@ xnor(yxnor,a,b);
 endmodule 
 ```
 # RTL Diagram:
-![Screenshot (97)](https://github.com/JAYAVARTHAN-P/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121369281/59de04e4-3fc5-492b-83df-ca21f93a4242)
+![Screenshot (97)](https://github.com/Jayachandran20/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121369281/59de04e4-3fc5-492b-83df-ca21f93a4242)
 
 
 
 # Truthtable:
-![WhatsApp Image 2023-08-18 at 09 17 00](https://github.com/JAYAVARTHAN-P/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121369281/49b4652b-2780-4110-81d9-db7d9dc0e3b2)
+![261616908-64057eb3-2a05-4c7d-a824-9ef20ffe1356](https://github.com/Jayachandran20/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118447015/8b2a2a54-e655-4530-b52c-00ff26b14cc6)
 
 # Output:
 ![Screenshot (100)](https://github.com/JAYAVARTHAN-P/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121369281/985133a1-f89d-44e4-9295-683dc86c96b7)
