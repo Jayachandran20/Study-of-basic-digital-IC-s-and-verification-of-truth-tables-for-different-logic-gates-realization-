@@ -92,7 +92,7 @@ nand(ynand,a,b);
 nor(ynor,a,b);
 xor(yxor,a,b);
 xnor(yxnor,a,b);
-endmodule 
+endmodule
 ```
 # RTL Diagram:
 ![Screenshot (97)](https://github.com/Jayachandran20/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121369281/59de04e4-3fc5-492b-83df-ca21f93a4242)
