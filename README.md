@@ -60,7 +60,7 @@ Check all the gates following the same procedure.
 Program:
 ```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: JEEVAGOWTHAM S
+Developed by: M.JAYACHANDRAN
 RegisterNumber: 212222230053
 
 module assignment1(a,b,ynot,yand,yor,ynand,ynor,yxor,yxnor);
@@ -87,8 +87,8 @@ endmodule
 
 ## TRUTH TABLE:
 
-![Screenshot (120)](https://github.com/JeevaGowtham-S/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118042624/64057eb3-2a05-4c7d-a824-9ef20ffe1356)
 
+![image](https://github.com/Jayachandran20/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118447015/7179919d-7865-4ac9-9d54-f5495120b510)
 
 
 
